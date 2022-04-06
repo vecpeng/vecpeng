@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Standard ML                3 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.39 %
-JavaScript                 1 hr 52 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-YAML                       42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-JSON                       39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Vue.js                     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Nginx configuration file   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Standard ML                2 hrs 48 mins   █████████████░░░░░░░░░░░░   51.75 %
+JavaScript                 1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+JSON                       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Vue.js                     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+TypeScript                 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Nginx configuration file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
