@@ -10,11 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Standard ML      2 hrs 48 mins   █████████████████████▒░░░   84.67 %
-Vue.js           13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-JavaScript       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-TypeScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Standard ML   1 hr 29 mins    ██████████████████████░░░   88.04 %
+JavaScript    9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Other         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
