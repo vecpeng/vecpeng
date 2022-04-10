@@ -10,9 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Standard ML   1 hr 29 mins    ██████████████████████░░░   88.04 %
-JavaScript    9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Other         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Standard ML   1 hr 30 mins    ██████████████████████░░░   88.12 %
+JavaScript    9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Other         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
