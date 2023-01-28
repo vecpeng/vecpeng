@@ -10,7 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
+Swift        4 mins          ███████████▒░░░░░░░░░░░░░   45.04 %
+JavaScript   2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+Other        2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.69 %
 ```
 
 <!--END_SECTION:waka-->
